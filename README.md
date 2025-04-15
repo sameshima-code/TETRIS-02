@@ -12,6 +12,7 @@ Visual Studio 2022
 
 クレジット
 クローン元のリポジトリ[Coding-Ocean] { https://github.com/Coding-Ocean/tetris.git }
+
 元のコードの解説と制作 { https://youtu.be/sUz6aLWS4TU?si=3HxPpILLRmIuwdFL }
 
 ーーーーーーーーーーーーーーーーーーーー
