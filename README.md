@@ -1,9 +1,7 @@
 ﻿# TETRIS-02
-このプログラムはC++環境でC言語を使って作成しました。 
-
-このプロジェクトは、公開されているリポジトリを改良・拡張したものです。
-
-リフレッシュレート144Hzの環境で開発しました。
+- このプログラムはC++環境でC言語を使って作成しました。 
+- このプロジェクトは、公開されているリポジトリを改良・拡張したものです。
+- リフレッシュレート144Hzの環境で開発しました。
 
 
 特徴
@@ -14,13 +12,12 @@
 
 使用技術
 - C（C++）
-Visual Studio 2022
+- Visual Studio 2022
 
 
 クレジット
-クローン元のリポジトリ[Coding-Ocean] { https://github.com/Coding-Ocean/tetris.git }
-
-元のコードの解説と制作 { https://youtu.be/sUz6aLWS4TU?si=3HxPpILLRmIuwdFL }
+- クローン元のリポジトリ[Coding-Ocean] { https://github.com/Coding-Ocean/tetris.git }
+- 元のコードの解説と制作 { https://youtu.be/sUz6aLWS4TU?si=3HxPpILLRmIuwdFL }
 
 ーーーーーーーーーーーーーーーーーーーー
 
