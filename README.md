@@ -9,7 +9,7 @@
 - コントロール画面：プレイ中いつでも操作方法を確認可能
 
 
-使用技術
+開発環境:
 - C（C++）
 - Visual Studio 2022
 - リフレッシュレート144Hzの環境で開発しました。
@@ -24,7 +24,7 @@
 - A classic implementation of the Tetris game using C (C++).
 - This project is a modification and enhancement of a public repository.
 
-Features
+Development Environment
 -  Implements traditional Tetris mechanics : including clearing lines, rotating blocks.
 -  Simple Graphics : Lightweight graphical interface for smooth gameplay.
 -  Controls Screen : You can check the controls anytime.
